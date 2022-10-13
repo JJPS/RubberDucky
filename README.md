@@ -20,7 +20,8 @@
   - [Agregar Drivers ATmega 16U2 DFU](#agregar-drivers-atmega-16u2-dfu)
   - [Activamos RubberDucky](#activamos-rubberducky)
   - [Activamos almacenamiento USB](#activamos-almacenamiento-usb)
-  - [Enlaces de fuentes](#enlaces-de-fuentes)
+  - [Fuentes](#fuentes)
+- [Payloads All The Things](#payloads-all-the-things)
   - [DuckyScript](#duckyscript)
 
 ## Instalar librería UNO-HDKeyboard-Library-master
@@ -247,11 +248,15 @@ Y subimos el contenido pulsando RUN
 
 Desconectamos y conectamos nuestro Arduino de nuevo, y se reconocerá como PortCOM.
 
-## Enlaces de fuentes
+## Fuentes
 
 https://create.arduino.cc/projecthub/aswinaK/rubber-ducky-using-arduino-593fb1
 
 https://www.youtube.com/watch?v=tlYMNxC_Ptk
+
+# Payloads All The Things
+
+https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/
 
 ## DuckyScript
 
